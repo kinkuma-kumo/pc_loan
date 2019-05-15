@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access/>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name/>
+        <label_cache>[{"name":"d5d98562-3ac4-41c4-86fd-51c6247a3d24.table_name","label":"3.1➛パソコン持ち出し申請書 テーブル","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 テーブル"},{"name":"d5d98562-3ac4-41c4-86fd-51c6247a3d24.record","label":"3.1➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 Record"},{"name":"Updated_1.current","label":"トリガー➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書","type":"reference","base_type":"reference"},{"name":"Updated_1.current.opened_by.manager","label":"トリガー➛パソコン持ち出し申請書 Record➛オープン者➛マネージャー","reference":"sys_user","reference_display":"マネージャー","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"67565d6a-19dc-4c98-8ad1-33716eafd966.approval_state","label":"2➛承認ステータス","reference_display":"承認ステータス"},{"name":"43a7cd89-ba53-4e57-8267-52aeb2f14e24.record","label":"1➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 Record"},{"name":"43a7cd89-ba53-4e57-8267-52aeb2f14e24.table_name","label":"1➛パソコン持ち出し申請書 テーブル","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 テーブル"},{"name":"88f3fb90-6a7d-4a1e-9531-25e0abb71410.record","label":"3.1➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 Record"},{"name":"88f3fb90-6a7d-4a1e-9531-25e0abb71410.table_name","label":"3.1➛パソコン持ち出し申請書 テーブル","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 テーブル"},{"name":"e9c8d4b2-f6b6-46f4-8179-50e2515fb205.record","label":"4.1➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 Record"},{"name":"e9c8d4b2-f6b6-46f4-8179-50e2515fb205.table_name","label":"4.1➛パソコン持ち出し申請書 テーブル","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 テーブル"},{"name":"94e384d4-1e8c-44d9-94f9-d81714c9f29e.record","label":"4.1➛パソコン持ち出し申請書 Record","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 Record"},{"name":"94e384d4-1e8c-44d9-94f9-d81714c9f29e.table_name","label":"4.1➛パソコン持ち出し申請書 テーブル","reference":"x_snc_nittodenko_pc_loan_request","reference_display":"パソコン持ち出し申請書 テーブル"}]</label_cache>
+        <master>false</master>
+        <name>パソコン持ち出し承認</name>
+        <outputs/>
+        <parent_flow display_value="パソコン持ち出し承認">dd4057c3db62d300de299ea3db9619cd</parent_flow>
+        <remote_trigger_id>ffe39f87db62d300de299ea3db961997</remote_trigger_id>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:53:27</sys_created_on>
+        <sys_id>7ea78a63db2e1700de299ea3db96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>パソコン持ち出し承認</sys_name>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_7ea78a63db2e1700de299ea3db96193f</sys_update_name>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:53:27</sys_updated_on>
+        <type/>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=7ea78a63db2e1700de299ea3db96193f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=7ea78a63db2e1700de299ea3db96193f"/>
+</record_update>

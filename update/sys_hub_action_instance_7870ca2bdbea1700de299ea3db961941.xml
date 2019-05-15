@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
+        <display_text/>
+        <flow display_value=" パソコン持ち出し承認2">6870ca2bdbea1700de299ea3db961932</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>7870ca2bdbea1700de299ea3db961941</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sys_hub_action_instance_7870ca2bdbea1700de299ea3db961941</sys_update_name>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <ui_id>67565d6a-19dc-4c98-8ad1-33716eafd966</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=7870ca2bdbea1700de299ea3db961941"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>7870ca2bdbea1700de299ea3db961941</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>3470ca2bdbea1700de299ea3db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <value>approval</value>
+        <variable display_value="">01f2e9920b10030085c083eb37673ad8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>7870ca2bdbea1700de299ea3db961941</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>7c70ca2bdbea1700de299ea3db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <value>x_snc_nittodenko_pc_loan_request</value>
+        <variable display_value="">bcf2e9920b10030085c083eb37673acc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>7870ca2bdbea1700de299ea3db961941</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>b870ca2bdbea1700de299ea3db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <value/>
+        <variable display_value="">c5f2e9920b10030085c083eb37673af9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>7870ca2bdbea1700de299ea3db961941</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>f470ca2bdbea1700de299ea3db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <value>approval_history</value>
+        <variable display_value="">c1f2e9920b10030085c083eb37673ae3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=7870ca2bdbea1700de299ea3db961941"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>fc70ca2bdbea1700de299ea3db961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>ApprovesAnyU[{{Updated_1.current.opened_by.manager}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_field</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>f070ca2bdbea1700de299ea3db961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>due_date</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>3c70ca2bdbea1700de299ea3db961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>journal_field</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>b470ca2bdbea1700de299ea3db961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>7870ca2bdbea1700de299ea3db961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>7870ca2bdbea1700de299ea3db961941</id>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:21:54</sys_created_on>
+        <sys_id>b070ca2bdbea1700de299ea3db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:21:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

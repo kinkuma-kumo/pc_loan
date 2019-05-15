@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_snc_nittodenko_pc_loan_request</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_snc_nittodenko_pc_loan_request">u_version=2^EQ<item endquery="false" field="u_version" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>(DB) Set correct status</name>
+        <order>1000</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 09:32:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f17612fdb6a1700de299ea3db96195c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>(DB) Set correct status</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sys_script_2f17612fdb6a1700de299ea3db96195c</sys_update_name>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 10:20:16</sys_updated_on>
+        <template>state=3^EQ</template>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=2f17612fdb6a1700de299ea3db96195c"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2f17612fdb6a1700de299ea3db96195c</documentkey>
+        <fieldname>message</fieldname>
+        <language>ja</language>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 09:32:25</sys_created_on>
+        <sys_id>cd67252fdb6a1700de299ea3db961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 09:32:25</sys_updated_on>
+        <tablename>sys_script</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

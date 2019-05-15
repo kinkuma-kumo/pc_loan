@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_personal_info" label="個人情報" language="en" table="x_snc_nittodenko_pc_loan_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_personal_info</element>
+            <help/>
+            <hint/>
+            <label>個人情報</label>
+            <language>en</language>
+            <name>x_snc_nittodenko_pc_loan_request</name>
+            <plural>個人情報s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 02:53:58</sys_created_on>
+            <sys_id>7809f93edb2e5300de299ea3db96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>個人情報</sys_name>
+            <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_nittodenko_pc_loan_request_u_personal_info_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 02:53:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

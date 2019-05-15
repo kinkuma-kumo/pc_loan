@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">5ca139e7dbaa1700de299ea3db9619d8</block>
+        <comment/>
+        <connected_to>9859999c-4b3f-4605-a544-d79b32dda5d9</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="パソコン持ち出し承認">d40686efdbea1700de299ea3db96198d</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2018-06-13 11:46:11</sys_created_on>
+        <sys_id>6806c6efdbea1700de299ea3db9619bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_6806c6efdbea1700de299ea3db9619bb</sys_update_name>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2018-06-13 11:46:11</sys_updated_on>
+        <ui_id>06694eda-2eac-43df-9e96-7cf5215a9568</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=6806c6efdbea1700de299ea3db9619bb"/>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>pc_no</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>(DB) 文字列設定</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	
+	//var str = "Blah";
+	var str = "私は日東電エグループの資産であるパソコンを会社に持ち出すに当たり、下記のこと誓約致します";
+	var str2 = "パソコンを社外に持ち出す場合は、事前に。。。";
+	g_form.setValue('u_terms',str);
+	g_form.addInfoMessage(str2);
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 06:07:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76052a3edbee5300de299ea3db96191e</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>(DB) 文字列設定</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sys_script_client_76052a3edbee5300de299ea3db96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 07:38:17</sys_updated_on>
+        <table>x_snc_nittodenko_pc_loan_request</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

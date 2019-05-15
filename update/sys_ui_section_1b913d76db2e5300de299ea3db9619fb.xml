@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1b913d76db2e5300de299ea3db9619fb" sys_domain="global" table="x_snc_nittodenko_pc_loan_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-13 07:12:33</sys_created_on>
+            <sys_id>1c67816fdbe61700de299ea3db96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_nittodenko_pc_loan_request" sys_domain="global" view="Default view">1b913d76db2e5300de299ea3db9619fb</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-13 07:12:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-13 07:12:33</sys_created_on>
+            <sys_id>d067816fdbe61700de299ea3db96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_nittodenko_pc_loan_request" sys_domain="global" view="Default view">1b913d76db2e5300de299ea3db9619fb</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-13 07:12:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>2</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-13 07:12:33</sys_created_on>
+            <sys_id>5467816fdbe61700de299ea3db96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_nittodenko_pc_loan_request" sys_domain="global" view="Default view">1b913d76db2e5300de299ea3db9619fb</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-13 07:12:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company_name</element>
+            <position>3</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-13 07:12:33</sys_created_on>
+            <sys_id>d467816fdbe61700de299ea3db96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_nittodenko_pc_loan_request" sys_domain="global" view="Default view">1b913d76db2e5300de299ea3db9619fb</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-13 07:12:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_version</element>
+            <position>4</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-13 07:12:33</sys_created_on>
+            <sys_id>5867816fdbe61700de299ea3db96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_nittodenko_pc_loan_request" sys_domain="global" view="Default view">1b913d76db2e5300de299ea3db9619fb</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-13 07:12:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_nittodenko_pc_loan_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 02:21:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b913d76db2e5300de299ea3db9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_nittodenko_pc_loan_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+            <sys_update_name>sys_ui_section_1b913d76db2e5300de299ea3db9619fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 02:21:39</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

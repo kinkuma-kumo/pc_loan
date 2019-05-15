@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="encrypted" label="東京標準暗号化ソフトによる暗号化の有無" language="en" table="x_snc_nittodenko_pc_loan_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>encrypted</element>
+            <help/>
+            <hint/>
+            <label>東京標準暗号化ソフトによる暗号化の有無</label>
+            <language>en</language>
+            <name>x_snc_nittodenko_pc_loan_request</name>
+            <plural>東京標準暗号化ソフトによる暗号化の有無s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 02:20:08</sys_created_on>
+            <sys_id>dd41f576db2e5300de299ea3db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>東京標準暗号化ソフトによる暗号化の有無</sys_name>
+            <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_nittodenko_pc_loan_request_encrypted_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 02:20:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

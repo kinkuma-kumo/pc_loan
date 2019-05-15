@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 01:11:17</sys_created_on>
+        <sys_id>b88169b6dbea5300de299ea3db9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_nittodenko_pc_loan_request.x_snc_nittodenko._user</sys_name>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_security_acl display_value="x_snc_nittodenko_pc_loan_request">348169b6dbea5300de299ea3db9619e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b88169b6dbea5300de299ea3db9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 01:11:17</sys_updated_on>
+        <sys_user_role display_value="x_snc_nittodenko._user" name="x_snc_nittodenko._user">d88169b6dbea5300de299ea3db961999</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

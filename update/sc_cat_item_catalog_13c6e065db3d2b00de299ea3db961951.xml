@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="パソコン持ち出し申請">93c66c25db3d2b00de299ea3db9619b2</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 13:06:26</sys_created_on>
+        <sys_id>13c6e065db3d2b00de299ea3db961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.パソコン持ち出し申請</sys_name>
+        <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_13c6e065db3d2b00de299ea3db961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 13:06:26</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

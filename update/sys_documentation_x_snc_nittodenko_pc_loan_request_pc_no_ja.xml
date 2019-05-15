@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pc_no" label="PC No." language="ja" table="x_snc_nittodenko_pc_loan_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pc_no</element>
+            <help/>
+            <hint/>
+            <label>PC No.</label>
+            <language>ja</language>
+            <name>x_snc_nittodenko_pc_loan_request</name>
+            <plural>PC No.s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 01:15:51</sys_created_on>
+            <sys_id>ef82a9f6dbea5300de299ea3db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PC No.</sys_name>
+            <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_nittodenko_pc_loan_request_pc_no_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 01:15:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

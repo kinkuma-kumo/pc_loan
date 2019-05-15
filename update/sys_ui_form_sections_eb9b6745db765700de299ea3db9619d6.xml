@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="eb9b6745db765700de299ea3db9619d6" sys_domain="global" table="cmdb_ci_pc_hardware" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-18 11:01:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>679b6745db765700de299ea3db9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_pc_hardware" name="cmdb_ci_pc_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">eb9b6745db765700de299ea3db9619d6</sys_ui_form>
+            <sys_ui_section display_value="">679b6745db765700de299ea3db9619db</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-18 11:01:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-18 11:01:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>639b6745db765700de299ea3db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_pc_hardware" name="cmdb_ci_pc_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">eb9b6745db765700de299ea3db9619d6</sys_ui_form>
+            <sys_ui_section display_value="">679b6745db765700de299ea3db9619d8</sys_ui_section>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-18 11:01:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_ci_pc_hardware</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2018-06-18 11:01:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb9b6745db765700de299ea3db9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_pc_hardware</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NittoDenko" source="x_snc_nittodenko">f20f9df2dbea5300de299ea3db961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NittoDenko">f20f9df2dbea5300de299ea3db961925</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eb9b6745db765700de299ea3db9619d6</sys_update_name>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2018-06-18 11:01:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Compliance" name="certification">d62ead22df100100cd7da5f59bf26356</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
